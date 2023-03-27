@@ -1,0 +1,22 @@
+{
+  "name": "video-stream-face-capture",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.2.0",
+    "eslint": "8.36.0",
+    "eslint-config-next": "13.2.4",
+    "face-api.js": "^0.22.2",
+    "html2canvas": "^1.4.1",
+    "next": "13.2.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-webcam": "^7.0.1"
+  }
+}
